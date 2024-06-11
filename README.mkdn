@@ -4,7 +4,7 @@ You can generate keys like [This](https://github.com/Tiktodz/sign/tree/14/lineag
 ## clone this source
 
 ```
-git clone https://github.com/Tiktodz/signed
+git clone https://github.com/shravansayz/signed
 ```
 
 ## clone development
